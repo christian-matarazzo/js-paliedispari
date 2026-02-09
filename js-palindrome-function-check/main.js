@@ -33,3 +33,6 @@ for(let i = lowerCase.length - 1 /* with this condition we can start loop from t
 }
 
 checkPalindrome(userWord)  //now we can call our function, using instead of parameter "word" our argoument object "userWord"
+
+
+
